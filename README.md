@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile programming
 - 🌱 I’m currently learning Kotlin language
 - 💞️ I’m looking to collaborate on any upcoming projects
-- 📫 Reach me on instagram @abrar_mdd
+- 📫 Reach me on [Instagram](https://www.instagram.com/abrar_mdd/)
 
 <!---
 AbrarAbe/AbrarAbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
