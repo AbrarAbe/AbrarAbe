@@ -1,5 +1,5 @@
 # ✨ About Me:
-- 👋 Hi, I’m @AbrarAbe<br>- 👀 I’m interested in mobile programming<br>- 🌱 I’m currently learning Fluter<br>- 🤝 I’m looking to collaborate on any upcoming projects<br>- 🐧 Linux enthusiast<br>
+- 👋 Hi, I’m @AbrarAbe<br>- 👀 I’m interested in mobile programming<br>- 🌱 I’m currently learning Bash<br>- 🤝 I’m looking to collaborate on any upcoming projects<br>- 🐧 Linux enthusiast<br>
 
 
 ## 🌐 Socials:
