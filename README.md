@@ -42,11 +42,11 @@ _Hi, im **Abrar** 👋. I'm a fresh graduate of Informatics Engineering. I inter
 ![Abrar Abe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbrarAbe&bg_color=0d1117&color=deddda&line=3584e4&point=8ff0a4&area=true&hide_border=true)
 
 <center>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarAbe&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="abrarabe" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarAbe&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="abrarabe" /></p>
     
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbrarAbe&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbrarAbe&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbrarAbe&theme=github_dark&hide_border=false" /></p>
+  <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=AbrarAbe&theme=transparent&hide_border=false" /></p>
 </center>
 </br>
 
