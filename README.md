@@ -28,7 +28,7 @@ _Hi, im **Abrar** 👋. I'm a fresh graduate of Informatics Engineering. I inter
         <b>Currently learning</b>
       </td>
       <td width="60" align="center">
-        <img height="30" src="https://astro.build/assets/press/astro-icon-light-gradient.svg">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/130px-Go_Logo_Blue.svg.png">
       </td>
     </tr>
   </table>
