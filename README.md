@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/67e2cc97-7d61-48e2-841a-d1c6d4d82a7c" style="padding: 0 50px"  width="400">
 
-_Hi, im **Abrar** 👋. I'm a fresh graduate of Informatics Engineering. I interested in web and mobile apps development. I'm familiar with Native PHP, Laravel and currently learning Javascipt Frameworks, Flutter, and Go. I'm open to work or contribute to open source projects.._ 
+_Hi, im **Abrar** 👋. I'm a fresh graduate of Informatics Engineering. I interested in web and mobile apps development. I'm familiar with Native PHP, Laravel and currently learning Astro, Flutter, and Go. I'm open to work or contribute to open source projects.._ 
 
 <h3 align="center"><i>Social Media</i></h3>
 
