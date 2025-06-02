@@ -28,7 +28,7 @@ _Hi, im **Abrar** 👋. I'm a Software Developer. I interested in web and mobile
         <b>Currently learning</b>
       </td>
       <td width="60" align="center">
-        <img src="https://github.com/user-attachments/assets/5e6a0eea-1fda-4e35-8505-f47de38115b">
+        <img src="https://github.com/user-attachments/assets/5e6a0eea-1fda-4e35-8505-f47de38115bf">
       </td>
     </tr>
   </table>
