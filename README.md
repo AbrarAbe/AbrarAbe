@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/dc33ce06-cee0-4cc4-aa9e-ab4314c6a0b1">
 </div>  
 
-<img align="right" src="https://github.com/user-attachments/assets/67e2cc97-7d61-48e2-841a-d1c6d4d82a7c" style="padding: 0 50px"  width="400">
+<img align="right" src="https://github.com/user-attachments/assets/67e2cc97-7d61-48e2-841a-d1c6d4d82a7c" style="padding: 0 50px" width="400">
 
 _Hi, im **Abrar** 👋. I'm a Software Developer. I interested in web and mobile apps development. I'm familiar with PHP, Laravel and currently learning Astro, Flutter, and Go. I'm open to work or contribute to open source projects._ 
 
@@ -101,7 +101,7 @@ _Hi, im **Abrar** 👋. I'm a Software Developer. I interested in web and mobile
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo" />
 </div>
 
-### Github Stats :
+### My Github Stats :
 
 ![Abrar Abe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbrarAbe&bg_color=0d1117&color=deddda&line=3584e4&point=8ff0a4&area=true&hide_border=true)
 
