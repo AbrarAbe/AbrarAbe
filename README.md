@@ -115,7 +115,7 @@ _Hi, im **Abrar** 👋. I'm a Software Developer. I'm doing web and mobile apps 
 </br>
 
 <p>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=AbrarAbe&theme=dracula&no-frame=false&no-bg=true&margin-w=4" />
+  <img align="center" src="https://github-trophies.vercel.app/?username=AbrarAbe&theme=onestar&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
