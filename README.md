@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/67e2cc97-7d61-48e2-841a-d1c6d4d82a7c" style="padding: 0 50px" width="400">
 
-_Hi, im **Abrar** 👋. I'm a Software Developer. I'm doing web and mobile apps development. I'm familiar with PHP, Laravel and currently learning Astro, Flutter, and Go. I'm open to work or contribute to open source projects._ 
+_Hi, im **Abrar** 👋, a Software Developer. I'm doing web and mobile apps development. I'm familiar with Flutter, Laravel and currently learning Astro and Go. I'm open to contribute to open source projects._ 
 
 <h3 align="center"><i>Social Media</i></h3>
 
@@ -92,6 +92,8 @@ _Hi, im **Abrar** 👋. I'm a Software Developer. I'm doing web and mobile apps 
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/draw-io.svg" height="40" alt="drawio logo" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" alt="notion logo" />
   <img width="5" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/512px-2023_Obsidian_logo.svg.png" height="40" alt="obsidian logo" />
@@ -106,11 +108,11 @@ _Hi, im **Abrar** 👋. I'm a Software Developer. I'm doing web and mobile apps 
 ![Abrar Abe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbrarAbe&bg_color=0d1117&color=deddda&line=3584e4&point=8ff0a4&area=true&hide_border=true)
 
 <center>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarAbe&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="abrarabe" /></p>
-    
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbrarAbe&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" /></p>
+  <p><img align="left" src="https://github-readme-stats.shion.dev/api?username=AbrarAbe&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="abrarabe" /></p>
 
-  <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=AbrarAbe&theme=transparent&hide_border=false" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AbrarAbe&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></p>
+
+  <p><img align="center" src="https://streak-stats.demolab.com/?user=AbrarAbe&theme=transparent&hide_border=false" /></p>
 </center>
 </br>
 
