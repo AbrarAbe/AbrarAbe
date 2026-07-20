@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/67e2cc97-7d61-48e2-841a-d1c6d4d82a7c" style="padding: 0 50px" width="400">
 
-_Hi, im **Abrar** 👋, a Software Developer. I'm doing web and mobile apps development. I'm familiar with Flutter, Laravel and currently learning Astro and Go. I'm open to contribute to open source projects._ 
+_Hi, im **Abrar** 👋, a Software Developer. I do web and mobile apps development. I'm familiar with Flutter, Laravel and currently learning Astro and Go. I'm open to contribute to open source projects._ 
 
 <h3 align="center"><i>Social Media</i></h3>
 
@@ -12,10 +12,10 @@ _Hi, im **Abrar** 👋, a Software Developer. I'm doing web and mobile apps deve
   <table width="100" align="center">
     <tr>
       <td align="center" width="60">
-        <a href="https://www.instagram.com/abrar_mdd/"><img src="https://cdn-icons-png.flaticon.com/128/4138/4138124.png"></a>
+        <a href="https://www.linkedin.com/in/abrar-abe-39450b339"><img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="60"></a>
       </td>
       <td align="center" width="60">
-        <a href="https://www.linkedin.com/in/abrar-abe-39450b339"><img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="60"></a>
+        <a href="https://www.instagram.com/abrar_mdd/"><img src="https://cdn-icons-png.flaticon.com/128/4138/4138124.png"></a>
       </td>
       <td align="center" width="60">
         <a href="https://facebook.com/abrar.abe.3"><img src="https://cdn-icons-png.flaticon.com/128/145/145802.png" width="60"></a>
@@ -31,7 +31,7 @@ _Hi, im **Abrar** 👋, a Software Developer. I'm doing web and mobile apps deve
         <b>Currently learning</b>
       </td>
       <td width="60" align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/130px-Go_Logo_Blue.svg.png">
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/golang.png">
       </td>
     </tr>
   </table>
@@ -76,7 +76,7 @@ _Hi, im **Abrar** 👋, a Software Developer. I'm doing web and mobile apps deve
 
 <div align="left">
   <img width="5" />
-  <img src="https://zed.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo_icon.d67dc948.webp&w=128&q=100" height="35" alt="zed logo" />
+  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/zed.png" height="35" alt="zed logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="5" />
@@ -90,13 +90,17 @@ _Hi, im **Abrar** 👋, a Software Developer. I'm doing web and mobile apps deve
   <img width="5" />
   <img src="https://github.com/Zsh-art/logo/blob/main/png/white_vertical_icon.png" height="40" alt="zsh logo" />
   <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docker.png" height="40" alt="docker logo" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/penpot-light.png" height="40" alt="penpot logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/draw-io.svg" height="40" alt="drawio logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" alt="notion logo" />
   <img width="5" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/512px-2023_Obsidian_logo.svg.png" height="40" alt="obsidian logo" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/obsidian.png" height="40" alt="obsidian logo" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo" />
   <img width="5" />
@@ -112,7 +116,7 @@ _Hi, im **Abrar** 👋, a Software Developer. I'm doing web and mobile apps deve
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AbrarAbe&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></p>
 
-  <p><img align="center" src="https://streak-stats.demolab.com/?user=AbrarAbe&theme=transparent&hide_border=false" /></p>
+  <p><img align="center" src="https://streak-stats.demolab.com?user=AbrarAbe&theme=transparent" /></p>
 </center>
 </br>
 
