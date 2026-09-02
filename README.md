@@ -109,14 +109,12 @@ _Hi, im **Abrar** 👋, a Software Developer. I do web and mobile apps developme
 
 ### My Github Stats :
 
-![Abrar Abe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbrarAbe&bg_color=0d1117&color=deddda&line=3584e4&point=8ff0a4&area=true&hide_border=true)
-
 <center>
-  <p><img align="left" src="https://github-readme-stats.shion.dev/api?username=AbrarAbe&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="abrarabe" /></p>
+  <p><img align="left" src="https://github-readme-stats.shion.dev/api?username=AbrarAbe&theme=transparent&hide_border=true&include_all_commits=true" alt="abrarabe" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AbrarAbe&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AbrarAbe&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact" /></p>
 
-  <p><img align="center" src="https://streak-stats.demolab.com?user=AbrarAbe&theme=transparent" /></p>
+  <p><img align="center" src="https://streak-stats.demolab.com/?user=AbrarAbe&theme=transparent&hide_border=true" /></p>
 </center>
 </br>
 
