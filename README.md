@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/67e2cc97-7d61-48e2-841a-d1c6d4d82a7c" style="padding: 0 50px" width="400">
 
-_Hi, im **Abrar** 👋, a Software Developer. I do web and mobile apps development. I'm familiar with Flutter, Laravel and currently learning Astro and Go. I'm open to contribute to open source projects._ 
+_Hi, im **Abrar** 👋, a Software Developer. I do web and mobile apps development. I have experienced with Flutter, Astro, Laravel and currently learning Go. I'm open to contribute to open source projects._ 
 
 <h3 align="center"><i>Social Media</i></h3>
 
